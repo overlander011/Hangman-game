@@ -83,6 +83,7 @@ public class Client extends ClientGame{
 			}
 		} catch (Exception ex) {
 			ex.printStackTrace();
+		
 		}
 	}
 }
